@@ -11,3 +11,11 @@ BarCamp can't happen without space for the event. We have been lucky enough to h
 ## 2. Getting Organized: The Google Drive & Passwords to Accounts
 
 ## 3. Getting Sponsors
+
+## 4. Schwag
+
+BarCamp Philly has needed several items printed in the past. These normally have a fairly long lead time - and we can get better prices the sooner we order:
+
+* [T-Shirts](README_schwag.md#t-shirts)
+* [Lanyards & Badges](README_schwag.md#lanyards)
+* [Sponsor Banners](README_schwag.md#sponsor-banners)
