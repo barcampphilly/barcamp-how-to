@@ -27,7 +27,9 @@ Our cost using this vendor with this configuration in 2023 was $370.49.
 
 ## Badges
 
-A PhotoShop Document (PSD) file of our 2023 badge (3" x 4", 300 dpi) [is available here](assets/bcp-badge.psd). We ordered from https://axiomprint.com/product/event-badges-690
+Previous Vendor: [Axiom Design & Print](https://axiomprint.com/product/event-badges-690)
+
+A PhotoShop Document (PSD) file of our 2023 badge (3" x 4", 300 dpi) [is available here](assets/bcp-badge.psd).
 
 * Size: 3" x 4"
 * We left all the other defaults; with the lanyard configuration above, ensure "Oblong Hole Punch" is selected.
