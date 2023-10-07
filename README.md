@@ -27,5 +27,5 @@ BarCamp Philly has needed several items printed in the past. These normally have
 
 * [T-Shirts](README_schwag.md#t-shirts)
 * [Lanyards](README_schwag.md#lanyards)
-* [Lanyards](README_schwag.md#badges)
+* [Badges](README_schwag.md#badges)
 * [Sponsor Banners](README_schwag.md#sponsor-banners)
