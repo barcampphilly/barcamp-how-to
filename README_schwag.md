@@ -23,12 +23,9 @@ One of our sponsorship items is Lanyard Sponsor. If we have a Lanyard Sponsor, w
 10. 25 free lanyards
 11. Select the best delivery date you can. The sooner you order, the cheaper it will be!
 
-Our cost using this vendor with this configuration in 2023 was $359.50 for lanyards after a 10% discount.
+Our cost using this vendor with this configuration in 2023 was $370.49.
 
-[We're ordered badges here](https://www.customlanyard.net/pvc-custom-id-cards) with the following configuration:
-
-1. 525 of 2.75" x 3.94"
-2. Matte
+## Badges
 
 
 
