@@ -12,6 +12,14 @@ BarCamp can't happen without space for the event. We have been lucky enough to h
 
 ## 3. Getting Sponsors
 
+## 4. Tickets
+
+## 5. Communications and Promotion
+
+* The BarCamp Philly [mailing list is on MailChimp](https://mailchimp.com/)
+* [Facebook](https://www.facebook.com/barcampphilly/)
+* [Twitter](https://twitter.com/barcampphilly)
+
 ## 4. Schwag
 
 BarCamp Philly has needed several items printed in the past. These normally have a fairly long lead time - and we can get better prices the sooner we order:
