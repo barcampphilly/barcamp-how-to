@@ -3,10 +3,10 @@
 ## T-Shirts
 
 Previous Vendor:
-> Awesome Dudes Printing
-> 1338 S. 6th St
-> Phila, PA 19147
-> info@awesomedudesprinting.com / 267-886-8492
+Awesome Dudes Printing\
+1338 S. 6th St\
+Phila, PA 19147\
+info@awesomedudesprinting.com / 267-886-8492
 
 We communicated with them by email. The Adobe Illustrator files for the 2023 shirt (front and back) and a high-res version of the BarCamp logo [are available in the Google Drive "Graphical Assets" folder](https://drive.google.com/drive/u/0/folders/1le3xQE7pceMQBCmwvVBXbDCI77Qk61Od).
 
