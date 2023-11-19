@@ -21,7 +21,7 @@ BarCamp can't happen without space for the event. We have been lucky enough to h
 * [Facebook](https://www.facebook.com/barcampphilly/)
 * [Twitter](https://twitter.com/barcampphilly)
 
-## 4. Schwag
+## 6. Schwag
 
 BarCamp Philly has needed several items printed in the past. These normally have a fairly long lead time - and we can get better prices the sooner we order:
 
