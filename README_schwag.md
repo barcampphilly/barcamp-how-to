@@ -53,3 +53,7 @@ Mane Babayan, Account Manager
 mane@axiomprint.com
 
 ## Sponsor Banners
+
+Vinyl wall banners are required for Huntsman Hall, so they don't leave any sticky residue behind. In 2023, [we ordered these from Stick Wall Vinyl through Amazon](https://www.amazon.com/gp/product/B075KPHBNC/). The entire process can be done through Amazon, selecting the width, and uploading a graphic.
+
+For customization options, we made them all 30" wide, and each one cost $30.95. Be sure to use high-res source graphics of at least 3000 pixels in width, preferably higher (100 dpi). The total for seven of these banners for our high-end sponsors after tax and shipping was $237.04.
