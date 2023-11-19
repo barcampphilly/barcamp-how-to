@@ -26,7 +26,7 @@ BODY:
 > 
 > BarCamp Philly is holding our yearly unconference again, and TicketLeap has been our long time in-kind ticket sponsor. Our relationship goes back to a friendship with your founder, Chris Stanchak. In the past we have partnered with TicketLeap where service fees for the event were generally waived in exchange for ad placement on our website, in our promotional emails, and shout-outs at the event. This is the URL we have set up for this year's event; could you set it to be free of fees, and we'll promote you for another year?
 > 
-> https://barcamp-philly.ticketleap.com/barcamp-philly-14/dates/Nov-18-2023_at_0800AM
+> https://barcamp-philly.ticketleap.com/barcamp-philly-XX/dates/Nov-XX-20XX_at_0800AM
 >
 > We're looking forward to another great year!
 >
