@@ -14,6 +14,8 @@ BarCamp can't happen without space for the event. We have been lucky enough to h
 
 ## 4. Tickets
 
+[How to setup tickets at TicketLeap](README_tickets.md)
+
 ## 5. Communications and Promotion
 
 * The BarCamp Philly [mailing list is on MailChimp](https://mailchimp.com/)
