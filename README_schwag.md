@@ -2,7 +2,7 @@
 
 ## T-Shirts
 
-Previous Vendor:
+Previous Vendor:\
 Awesome Dudes Printing\
 1338 S. 6th St\
 Phila, PA 19147\
