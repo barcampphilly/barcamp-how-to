@@ -31,3 +31,11 @@ BarCamp Philly has needed several items printed in the past. These normally have
 * [Lanyards](README_schwag.md#lanyards)
 * [Badges](README_schwag.md#badges)
 * [Sponsor Banners](README_schwag.md#sponsor-banners)
+
+## 7. Post-Conference To-Do List
+
+* Send a thank you email to sponsors
+* Call for volunteers for next year
+* Send a final email to the email list
+* Turn off the MailChimp subscription
+* Update this documentation!
