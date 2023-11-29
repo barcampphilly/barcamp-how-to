@@ -32,7 +32,19 @@ BarCamp Philly has needed several items printed in the past. These normally have
 * [Badges](README_schwag.md#badges)
 * [Sponsor Banners](README_schwag.md#sponsor-banners)
 
-## 7. Post-Conference To-Do List
+## 7. Needs day Of
+
+On the day of there are a number of things that are SUPER helpful to have in your handy dandy 'toolbox'. This is not an exhaustive list but a good starting point:
+
+* Scisors (At least 3 pairs) - SHARP ones.
+* Sharpies (20-30 of a variety of colors) - These are useful in general, for badges and writing cards for the board
+* small voting stickers - Small shiny stickers to allow people to vote on the story cards to help prioritize larger rooms to more popular talks
+* [Gaff Tape](https://www.amazon.com/s?k=gaff+tape) - 3 - 5 Rolls for day of. This is important, GAFF TAPE not packing tape, not duct tape... GAFF tape. As it is meant to be sticky but also to be removable without leaving marks
+* Blue Painters tape - As useful day of as the gaff tape is and less expensive.
+* Push Pins (100 ish)
+* Way finding Signs: As much as we like to think the forum @ wharton is straight forward, it just isn't. Highly consider signs with room numbers/names and arrows, restrooms etc. 
+
+## 8. Post-Conference To-Do List
 
 * Send a thank you email to sponsors
 * Call for volunteers for next year
