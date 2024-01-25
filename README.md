@@ -10,7 +10,19 @@ BarCamp can't happen without space for the event. We have been lucky enough to h
 
 ## 2. Getting Organized: The Google Drive & Passwords to Accounts
 
+* The Google Drive (https://drive.google.com/drive/u/0/folders/0BwpcySCEDd_8N05iM0pwWmg2Sjg) contains:
+    * Separate sub-folders for each year of the event. Each year, we typically start by copying the previous year and pruning / modifying as necessary.
+    * A "What is BarCamp" document (written for Wharton Operations)
+    * A generic Sponsorship Prospectus which can be updated for each year with the date and exported to PDF
+    * A folder for Graphical Assets, such as print-quality logos, t-shirts, badges, and Huntsman Hall floorplans 
+    * The content playbook document
+    * The Safe Spaces Policy
+* Passpack: https://passpack.com/
+    * We keep all of our passwords for BarCamp Philly accounts in Passpack.
+    * The access credentials are kept in current organizers' password managers.
+
 ## 3. Getting Sponsors
+    * Make a copy of the generic Sponsorship Prospectus and update it for the current year.
 
 ## 4. Tickets
 
