@@ -46,7 +46,14 @@ BarCamp Philly has needed several items printed in the past. These normally have
 * [Badges](README_schwag.md#badges)
 * [Sponsor Banners](README_schwag.md#sponsor-banners)
 
-## 7. Post-Conference To-Do List
+## 7. Day of BarCamp Resources
+
+A Django website with an Unconference app has been build and can be used year-after-year.
+
+* [The Unconference App](https://github.com/flipperpa/unconference) (also [on PyPI](https://pypi.org/project/unconference/))
+* [BarCamp Philly Django Scheduler](https://github.com/barcampphilly/django-scheduler) (Private Repo on GitHub)
+
+## 8. Post-Conference To-Do List
 
 * Send a thank you email to sponsors
 * Call for volunteers for next year
