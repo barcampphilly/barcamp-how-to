@@ -22,7 +22,9 @@ BarCamp can't happen without space for the event. We have been lucky enough to h
     * The access credentials are kept in current organizers' password managers.
 
 ## 3. Getting Sponsors
-    * Make a copy of the generic Sponsorship Prospectus and update it for the current year.
+
+* Make a copy of the generic Sponsorship Prospectus and update it for the current year. Save it in the current year's folder.
+* Start with the previous years sponsorship spreadsheet, which should have contact information for all of the previous year's sponsors.
 
 ## 4. Tickets
 
