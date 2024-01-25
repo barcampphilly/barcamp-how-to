@@ -52,6 +52,7 @@ A Django website with an Unconference app has been build and can be used year-af
 
 * [The Unconference App](https://github.com/flipperpa/unconference) (also [on PyPI](https://pypi.org/project/unconference/))
 * [BarCamp Philly Django Scheduler](https://github.com/barcampphilly/django-scheduler) (Private Repo on GitHub)
+    * Our instance is hosted at CodeRed Cloud. The URL is: https://barcampphillyschedule.codered.cloud/
 
 ## 8. Post-Conference To-Do List
 
