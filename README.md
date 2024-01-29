@@ -32,7 +32,7 @@ BarCamp can't happen without space for the event. We have been lucky enough to h
 
 ## 5. Accounts, Website Registrar and Hosting
 
-* We have consolidated all important accounts under the `barcampphilly@gmail.com` email address.
+* We have consolidated all important accounts under the `barcampphilly@gmail.com` email address. Account hosting used to be with MediaTemple, which was bought by GoDaddy. You can still query the old DNS records on MediaTemple with commands like `nslookup -q=mx barcampphilly.org ns1.mediatemple.net` or `nslookup -q=txt barcampphilly.org ns1.mediatemple.net`.
 * The website is registered and hosted at NameCheap.com. Credentials are in PassPack.
     * After logging in, go to `Account -> Hosting List`
     * DNS can be seen under `Zone Editor`
