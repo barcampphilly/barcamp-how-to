@@ -34,6 +34,9 @@ BarCamp can't happen without space for the event. We have been lucky enough to h
 
 * We have consolidated all important accounts under the `barcampphilly@gmail.com` email address. Account hosting used to be with MediaTemple, which was bought by GoDaddy. You can still query the old DNS records on MediaTemple with commands like `nslookup -q=mx barcampphilly.org ns1.mediatemple.net` or `nslookup -q=txt barcampphilly.org ns1.mediatemple.net`.
 * The website is registered and hosted at NameCheap.com. Credentials are in PassPack.
+    * Hosting is billed biennially, and is currently paid through February 27, 2026.
+    * TLS (SSL) Certificates can be viewed at `Account -> SSL Certificates`. They are valid through Janaury 27, 2025.
+        * These are provided for free for one year. When we renew, we should just get a 5-year wildcard certificate.
     * After logging in, go to `Account -> Hosting List`
     * Domains are under `Domains`
     * DNS configuration is under `Zone Editor`
