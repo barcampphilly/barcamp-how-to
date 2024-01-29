@@ -30,14 +30,19 @@ BarCamp can't happen without space for the event. We have been lucky enough to h
 
 [How to setup tickets at TicketLeap](README_tickets.md)
 
-## 5. Communications and Promotion
+## 5. Accounts, Website Registrar and Hosting
+
+* We have consolidated all important accounts under the `barcampphilly@gmail.com` email address.
+* The website is registered and hosted at NameCheap.com. Credentials are in PassPack.
+
+## 6. Communications and Promotion
 
 * The BarCamp Philly [mailing list is on MailChimp](https://mailchimp.com/)
 * [Instagram](https://www.instagram.com/barcampphilly/)
 * [Facebook](https://www.facebook.com/barcampphilly/)
 * [Twitter](https://twitter.com/barcampphilly)
 
-## 6. Schwag
+## 7. Schwag
 
 BarCamp Philly has needed several items printed in the past. These normally have a fairly long lead time - and we can get better prices the sooner we order:
 
@@ -46,7 +51,7 @@ BarCamp Philly has needed several items printed in the past. These normally have
 * [Badges](README_schwag.md#badges)
 * [Sponsor Banners](README_schwag.md#sponsor-banners)
 
-## 7. Day of BarCamp Resources
+## 8. Day of BarCamp Resources
 
 A Django website with an Unconference app has been build and can be used year-after-year.
 
@@ -54,7 +59,7 @@ A Django website with an Unconference app has been build and can be used year-af
 * [BarCamp Philly Django Scheduler](https://github.com/barcampphilly/django-scheduler) (Private Repo on GitHub)
     * Our instance is hosted at CodeRed Cloud. The URL is: https://barcampphillyschedule.codered.cloud/
 
-## 8. Post-Conference To-Do List
+## 9. Post-Conference To-Do List
 
 * Send a thank you email to sponsors
 * Call for volunteers for next year
