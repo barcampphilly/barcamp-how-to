@@ -34,6 +34,9 @@ BarCamp can't happen without space for the event. We have been lucky enough to h
 
 * We have consolidated all important accounts under the `barcampphilly@gmail.com` email address.
 * The website is registered and hosted at NameCheap.com. Credentials are in PassPack.
+    * After logging in, go to `Account -> Hosting List`
+    * DNS can be seen under `Zone Editor`
+    * Add SSH keys for access to the server under `SSH Access -> Manage SSH Keys.` **RSA keys only! ed25519 is not supported.** See any example SSH config in PassPack.
 
 ## 6. Communications and Promotion
 
