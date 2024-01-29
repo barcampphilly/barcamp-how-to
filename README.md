@@ -38,6 +38,7 @@ BarCamp can't happen without space for the event. We have been lucky enough to h
     * Domains are under `Domains`
     * DNS configuration is under `Zone Editor`
     * Add SSH keys for access to the server under `SSH Access -> Manage SSH Keys.` **RSA keys only! ed25519 is not supported.** See an example SSH config in PassPack.
+    * 2013 - 2022 are flat HTML directories without version control. 2023 is a remote clone [of this repository](https://github.com/barcampphilly/bcp-14-2023), with a deployment key.
 
 ## 6. Communications and Promotion
 
