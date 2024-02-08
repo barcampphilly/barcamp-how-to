@@ -28,7 +28,8 @@ BarCamp can't happen without space for the event. We have been lucky enough to h
 
 ## 4. Tickets
 
-[How to setup tickets at TicketLeap](README_tickets.md)
+* [How to setup tickets at TicketLeap](README_tickets.md)
+* There is a spreadsheet named "Promotional Contacts", which lists places and people who will help us promote the event, in the Google Drive root folder.
 
 ## 5. Accounts, Website Registrar and Hosting
 
