@@ -51,6 +51,7 @@ BarCamp can't happen without space for the event. We have been lucky enough to h
 * [Instagram](https://www.instagram.com/barcampphilly/)
 * [Facebook](https://www.facebook.com/barcampphilly/)
 * [Twitter](https://twitter.com/barcampphilly)
+* [BarCamp Philly 2 through 10 Flickr](https://www.flickr.com/photos/barcampphilly/) has lots of old photos!
 
 ## 7. Schwag
 
